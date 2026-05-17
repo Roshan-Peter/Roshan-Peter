@@ -39,14 +39,20 @@ Real-time system monitoring with performance graphs and process tracking
 
 ## 📊 GitHub Stats
 
-(Add GitHub stats widget here if you want)
+![stats](https://github-readme-stats.vercel.app/api?username=Roshan-Peter&show_icons=true&theme=tokyonight)
 
----
+## 💻 Top Languages
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Peter&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![streak](https://streak-stats.demolab.com?user=Roshan-Peter&theme=tokyonight)
 
 ## 📫 Connect With Me
 * Website: https://roshanpeter.com
 * GitHub: https://github.com/Roshan-Peter
-* LinkedIn: [Go to my Profile] https://www.linkedin.com/in/roshan-peter-309713302
+* LinkedIn: https://www.linkedin.com/in/roshan-peter-309713302
 * Email: [roshan@roshanpeter.com](mailto:roshan2@gmail.com)
 
 ---
