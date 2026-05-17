@@ -26,15 +26,17 @@ Full Stack Developer specializing in scalable web and mobile applications.
 
 ## 📌 Featured Projects
 
-### 🧾 Inventory Management System
+### 🧾 Job Search Platform
 
-Full-stack system with real-time updates, authentication, and cross-platform support
-**Tech:** .NET Core, React, Flutter, PostgreSQL, SignalR
+A modern job listing and recruitment platform built with Node.js, Express, MongoDB, and EJS.
+Users can browse jobs, create accounts, post job opportunities, and apply using either Easy Apply or external application links.
 
-### 📱 System Monitor App
+**Tech:** Express, Ejs, NodeJs, MongoDb, Mongoose, Websocket
 
-Real-time system monitoring with performance graphs and process tracking
-**Tech:** Flutter, Dart
+### 📱 File Manager App
+
+A modern Android File Manager built using **Jetpack Compose**, designed to provide a clean, fast, and intuitive way to browse, manage, and organize files on your device.
+**Tech:** Jetpack Compose, Kotlin
 
 ## 🔥 GitHub Streak
 
