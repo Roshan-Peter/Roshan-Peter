@@ -36,15 +36,6 @@ Full-stack system with real-time updates, authentication, and cross-platform sup
 Real-time system monitoring with performance graphs and process tracking
 **Tech:** Flutter, Dart
 
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Roshan-Peter&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Peter&layout=compact&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 
 ![streak](https://streak-stats.demolab.com?user=Roshan-Peter&theme=tokyonight)
