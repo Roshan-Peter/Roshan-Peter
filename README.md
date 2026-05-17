@@ -36,11 +36,6 @@ Full-stack system with real-time updates, authentication, and cross-platform sup
 Real-time system monitoring with performance graphs and process tracking
 **Tech:** Flutter, Dart
 
-### 📦 request-http-client (NPM Package)
-
-Lightweight HTTP client utility for Node.js applications
-
----
 
 ## 📊 GitHub Stats
 
@@ -49,10 +44,10 @@ Lightweight HTTP client utility for Node.js applications
 ---
 
 ## 📫 Connect With Me
-
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [roshan2@gmail.com](mailto:roshan2@gmail.com)
+* Website: https://roshanpeter.com
+* GitHub: https://github.com/Roshan-Peter
+* LinkedIn: [Go to my Profile] https://www.linkedin.com/in/roshan-peter-309713302
+* Email: [roshan@roshanpeter.com](mailto:roshan2@gmail.com)
 
 ---
 
